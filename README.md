@@ -1,6 +1,6 @@
 # Hi, I'm Sahariar Islam 👋
 
-**Full Stack Engineer · Laravel/PHP + React.js/Next.js + Node.js/Express.js**
+**Full Stack Engineer · AI First · Laravel/PHP + React.js/Next.js + Node.js/Express.js**
 
 Currently building ERP, POS & eCommerce platforms at Yes Bangladesh
 
