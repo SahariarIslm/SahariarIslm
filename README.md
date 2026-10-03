@@ -68,7 +68,7 @@ Node.js/Fastify + TypeScript API with multi-tenant, role-based authentication.
 
 ## Connect
 
-- Services / portfolio: https://www.linkedin.com/services/page/31453731b9a753b76a
+- Services / portfolio: https://portfolio-of-sahariar.netlify.app
 - Dhaka, Bangladesh
 
 📫 Open to full-stack opportunities in Laravel/PHP, React.js/Next.js and Node.js
